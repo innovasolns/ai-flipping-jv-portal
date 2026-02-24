@@ -3,7 +3,7 @@ export const siteConfig = {
   tagline: "Affiliate & JV Resource Portal",
   url: process.env.NEXT_PUBLIC_SITE_URL || "https://aiflippingwarrior.socialnestmarketing.com",
   supportEmail: process.env.NEXT_PUBLIC_SUPPORT_EMAIL || "support@socialnestmarketing.com",
-  affiliateLink: process.env.NEXT_PUBLIC_AFFILIATE_LINK || "#",
+  affiliateLink: process.env.NEXT_PUBLIC_AFFILIATE_LINK || "https://warriorplus.com/as/o/nyk2yc",
   reviewAccessEmail: process.env.NEXT_PUBLIC_REVIEW_ACCESS_EMAIL || "support@socialnestmarketing.com",
 };
 
